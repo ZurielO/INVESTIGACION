@@ -27,7 +27,7 @@ El acondicionador de señal es un dispositivo utilizado para modificar las seña
 -	Conversores analógico a digital (ADC): Convierte señales analógicas en digitales.
 -	Convertidores de impedancia: Ajustan la impedancia entre el sensor y la tarjeta de adquisición.
 
-## Referencias en formato APA:
+## Referencias
 - Holton, G. (2011). Introduction to Data Acquisition Systems. Springer.
 - Zhang, Y., & He, Y. (2016). Human-Machine Interaction and Intelligent Systems. Elsevier.
 -	Norris, R. (2005). Sensors and Signal Conditioning. Wiley.
